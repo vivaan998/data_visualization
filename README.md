@@ -1,4 +1,5 @@
 # leaflet_visualization
-World Population Density Visualization using Leaflet and GeoJson data
+Complete interactive visualiozation for World Population Density using Leaflet and GeoJson data
 
-![Alt-Text](/Screenshots/code-not-exsits.JPG)
+For Instance look at the image below for better Visualization
+![Alt-Text](/Screenshot_20221210_032257.png)
