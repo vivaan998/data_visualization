@@ -11,4 +11,4 @@ For Instance look at the image below for better Visualization
 Which parameters does Compensation and benefits depends in a job?
 
 For Instance look at the image below for better Visualization
-![Alt-Text](/Screenshot_20221210_032257.png)
+![Alt-Text](/parameters_affecting_compensation.jpg)
